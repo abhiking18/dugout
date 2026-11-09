@@ -1,0 +1,6 @@
+{
+  "name": "DUGOUT — Sports Club | Bhangagarh, Guwahati",
+  "description": "Premium sports club in Bhangagarh, Guwahati, Assam. High-quality turf arena, competitive matches, and easy slot booking open until 11:00 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
